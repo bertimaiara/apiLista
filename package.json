@@ -1,0 +1,16 @@
+{
+  "name": "apiLista",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "sucrase": "^3.34.0"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
+}
